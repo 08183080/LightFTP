@@ -1,7 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/0mvll9a7emrqo0a7?svg=true)](https://ci.appveyor.com/project/hfiref0x/lightftp)
 
 # LightFTP
-* Small x86-32/x64 FTP Server
+* Small x86-32/x64 FTP Server.
 
 # System Requirements
 
